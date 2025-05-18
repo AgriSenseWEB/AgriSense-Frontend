@@ -131,9 +131,17 @@ This project is licensed under the [MIT License](LICENSE).
 
 For any inquiries or feedback, please reach out to:
 
-- **Name**: Gayathri 
-- **Email**: gayathrirasangikahw@gmail.com
-- **GitHub**: https://github.com/Gaya39877
+- **Gayathri**  
+  📧 gayathrirasangikahw@gmail.com  
+  🔗 [GitHub](https://github.com/Gaya39877)
+
+- **Nuwan Pradeep**  
+  📧 nuwanpkumara128@gmail.com  
+  🔗 [GitHub](https://github.com/Nuwan128)
+
+- **Dewni Samarakoon**  
+  📧 thakshilad2018@gmail.com  
+  🔗 [GitHub](https://github.com/Dewni514)
 
 ---
 
