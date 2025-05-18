@@ -66,14 +66,14 @@ Follow these steps to set up the project on your local machine:
 
 ```plaintext
 ├── static/
-│   ├── css/            
-│   └── images/         
+│   ├── css/            # Stylesheets
+│   └── images/         # Placeholder for UI images
 ├── templates/
-│   ├── index.html      
-├── app.py              
-├── model.pkl           
-├── requirements.txt    
-└── README.md           
+│   ├── index.html      # Main HTML file
+├── app.py              # Flask application
+├── model.pkl           # Pre-trained ML model
+├── requirements.txt    # Python dependencies
+└── README.md           # Project documentation
 ```
 
 ---
@@ -131,9 +131,17 @@ This project is licensed under the [MIT License](LICENSE).
 
 For any inquiries or feedback, please reach out to:
 
-- **Name**: Gayathri 
-- **Email**: gayathrirasangikahw@gmail.com
-- **GitHub**: https://github.com/Gaya39877
+- **Gayathri**  
+  📧 gayathrirasangikahw@gmail.com  
+  🔗 [GitHub](https://github.com/Gaya39877)
+
+- **Nuwan Pradeep**  
+  📧 nuwanpkumara128@gmail.com  
+  🔗 [GitHub](https://github.com/Nuwan128)
+
+- **Dewni Samarakoon**  
+  📧 thakshilad2018@gmail.com  
+  🔗 [GitHub](https://github.com/Dewni514)
 
 ---
 
